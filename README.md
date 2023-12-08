@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![BIENVENIDO](https://github.com/Evelin-jpg/images-test/blob/main/wallpaper%20galaxy%20blue%20and%20purple.jpg)
-
+<p align="center">
+<img src="https://github.com/Evelin-jpg/images-test/blob/main/wallpaper%20galaxy%20blue%20and%20purple.jpg">
+</p>
 
 
 <p align="center">
