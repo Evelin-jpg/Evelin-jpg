@@ -2,11 +2,20 @@
 
 ![BIENVENIDO](https://github.com/Evelin-jpg/images-test/blob/main/wallpaper%20galaxy%20blue%20and%20purple.jpg)
 
-![HOLA](https://github.com/Evelin-jpg/images-test/blob/main/galaxy%20purple.gif)
 
-![GUSTO EN VERTE](https://github.com/Evelin-jpg/images-test/blob/main/loading-aesthetic.gif)
 
-![COOL](https://github.com/Evelin-jpg/images-test/blob/main/twinkle%20star.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Evelin-jpg/images-test/blob/main/galaxy%20purple.gif">
+</p>
+
+<p align="left">
+  <img width="200" height="200" src="https://github.com/Evelin-jpg/images-test/blob/main/loading-aesthetic.gif">
+</p>
+
+<p align="right">
+  <img width="100" height="100" src="https://github.com/Evelin-jpg/images-test/blob/main/twinkle%20star.gif">
+</p>
+
 
 <!--
 **Evelin-jpg/Evelin-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
