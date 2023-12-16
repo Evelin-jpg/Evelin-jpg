@@ -1,4 +1,4 @@
-### BIENVENIDOS A MI CUENTA INSTITUCIONAL!
+<p align="center">BIENVENIDOS A MI CUENTA INSTITUCIONAL!</p>
 
 <p align="center">
 <img src="https://github.com/Evelin-jpg/images-test/blob/main/wallpaper%20galaxy%20blue%20and%20purple.jpg">
