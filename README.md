@@ -5,7 +5,7 @@
 </p>
 
 
-# Hola! Mi nombre es Evelin Barrera, soy estudiante de Informática de 7° Semestre, formo parte de la institución academica del Tecnologico Superior de Monclova, como estudiante y futuro profesionista estoy haciendo mi mejor esfuerzo por sobresalir y dar lo mejor de mi conforme a mis conocimientos y habilidades de programación. 
+Hola! Mi nombre es Evelin Barrera, soy estudiante de Informática de 7° Semestre, formo parte de la institución academica del Tecnologico Superior de Monclova, como estudiante y futuro profesionista estoy haciendo mi mejor esfuerzo por sobresalir y dar lo mejor de mi conforme a mis conocimientos y habilidades de programación. 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Evelin-jpg/images-test/blob/main/entradaTec.png">
 </p>
@@ -28,7 +28,7 @@
 - SQL Server
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Evelin-jpg/images-test/blob/main/galaxy%20purple.gif">
+  <img width="460" height="300" src="https://github.com/Evelin-jpg/images-test/blob/main/iconos%20program.PNG">
 </p>
 
 <p align="center">
