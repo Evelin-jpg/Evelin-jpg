@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Evelin-jpg/images-test/blob/main/loading-aesthetic.gif">
+</p>
+ 
  <p align="center">BIENVENIDOS A MI CUENTA INSTITUCIONAL!</p>
 
 <p align="center">
 <img src="https://github.com/Evelin-jpg/images-test/blob/main/wallpaper%20galaxy%20blue%20and%20purple.jpg">
 </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola! Mi nombre es Evelin Barrera, soy estudiante de Informática de 7° Semestre, formo parte de la institución academica del Tecnologico Superior de Monclova, como estudiante y futuro profesionista estoy haciendo mi mejor esfuerzo por sobresalir y dar lo mejor de mi conforme a mis conocimientos y habilidades de programación. 
 <p align="center">
@@ -35,9 +40,7 @@ Hola! Mi nombre es Evelin Barrera, soy estudiante de Informática de 7° Semestr
   <img width="460" height="300" src="https://github.com/Evelin-jpg/images-test/blob/main/galaxy%20purple.gif">
 </p>
 
-<p align="left">
-  <img width="200" height="200" src="https://github.com/Evelin-jpg/images-test/blob/main/loading-aesthetic.gif">
-</p>
+
 
 <p align="right">
   <img width="100" height="100" src="https://github.com/Evelin-jpg/images-test/blob/main/twinkle%20star.gif">
